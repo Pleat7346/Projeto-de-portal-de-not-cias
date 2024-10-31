@@ -1,1 +1,1 @@
-# Projeto-de-portal-de-not-cias
+# Projeto de portal de notícias
